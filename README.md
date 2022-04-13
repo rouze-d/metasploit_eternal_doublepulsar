@@ -2,7 +2,7 @@
 Metasploit Eternal Doublepulsar National Security Agency (NSA) Leak Tool (2017)
 
 first, you need install Metasploit<br>
-<a href="https://www.darkoperator.com/installing-metasploit-in-ubuntu">https://www.darkoperator.com/installing-metasploit-in-ubuntu</a><br>
+<a href="https://www.darkoperator.com/installing-metasploit-in-ubunt">https://www.darkoperator.com/installing-metasploit-in-ubunt</a><br>
 <a href="https://github.com/rapid7/metasploit-framework/wiki/Nightly-Installers">https://github.com/rapid7/metasploit-framework/wiki/Nightly-Installers</a>
 
 Install wine
